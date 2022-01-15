@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente aprendiendo **MongoDB 🍃**
 
-- Ingeniería en Sistemas en la UTN **[En Curso]**
+- Lic. en Ciencias de la Computación en la Universidad de Buenos Aires **[En Curso]**
 
 - Dev. Web Node.Js Full Stack en Digital House **[Completado]**
 
