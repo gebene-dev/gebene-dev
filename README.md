@@ -3,9 +3,11 @@
 
 - 🌱 Actualmente aprendiendo **React**
 
-- Ingeniería en Sistemas en la UTN **[En Curso]**
+- Licenciatura en Ciencias de la Computación en la UBA **[En Curso]**
 
 - Dev. Web Node.Js Full Stack en Digital House **[Completado]**
+ 
+- Desarrollo con RPA en KPMG  **[Completado]**
 
 - 📫 Donde contactarme? **gebene.dev@gmail.com**
 
