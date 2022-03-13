@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Brian</h1>
 <h3 align="center">Desarrollador Node.Js Full Stack</h3>
 
-- 🌱 Actualmente aprendiendo **React**
+- 🌱 Actualmente aprendiendo **Java**
 
 - Licenciatura en Ciencias de la Computación en la UBA **[En Curso]**
 
